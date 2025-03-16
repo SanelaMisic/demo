@@ -8,7 +8,7 @@ ovo je nas Readme
 #### H4 naslov
 
 za link:
-[fipu slizbena stranica](https://fipu.unipu.hr/)
+[fipu sluzbena stranica](https://fipu.unipu.hr/)
 
 
 ```cpp
